@@ -25,7 +25,7 @@ The backend accepts user learning queries, retrieves relevant learning resources
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/mehdialam20002/jiji)
 cd jiji-backend
 2. Install dependencies
 npm install
